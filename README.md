@@ -1,8 +1,7 @@
 ### Olá, eu sou Alex Cavalcanti e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento web uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
 
 - 👨‍💻 Atualmente estou participando de projetos
-- 📚 Estudando Typescritp e React
-- 😄 Pronomes: ele/dele
+- 📚 Estudando Typescritp e React 
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCaturyty&show_icons=true&theme=dracula)
