@@ -1,10 +1,10 @@
 ### Olá, eu sou Alex Caturyty e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento web uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
 
-Here are some ideas to get you started:
+### I:
 
 - 👨‍💻 Atualmente estou participando de projetos
 - 📚 Estudando Typescritp e React
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCaturyty&show_icons=true&theme=dracula)
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
  
 <div> 
  
-
+### Contact me:
+  
   <a href = "olucascavalcanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-cavalcanti-198979216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
