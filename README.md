@@ -1,7 +1,7 @@
-### Olá, eu sou Alex Cavalcanti e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento web uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
+### Olá, eu sou Alex Cavalcanti e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento full stack e IA uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
 
 - 👨‍💻 Atualmente estou participando de projetos
-- 📚 Estudando Typescritp e React 
+- 📚 Estudando Generative AI
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCaturyty&show_icons=true&theme=dracula)
@@ -18,6 +18,8 @@
   <img  align="center" alt="Alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img  align="center" alt="Alex-EXPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  />
   <img  align="center" alt="Alex-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img  align="center" alt="Alex-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
           
 </div>
   
