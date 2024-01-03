@@ -1,4 +1,4 @@
-### Olá, eu sou Alex Cavalcanti e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento full stack e IA uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
+### Olá, eu sou Alex Cavalcanti e estou atualmente estudando Sistemas para Internet na Faculdade Católica de Pernambuco. Tenho grande interesse em aprender e utilizar tecnologia em diversos aspectos, sendo o desenvolvimento Full Stack e IA uma das minhas paixões. No entanto, também estou aberto a explorar outras áreas de conhecimento, como o desenvolvimento mobile, por exemplo.
 
 - 👨‍💻 Atualmente estou participando de projetos
 - 📚 Estudando Generative AI
